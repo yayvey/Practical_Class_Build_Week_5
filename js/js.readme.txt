@@ -1,0 +1,1 @@
+# In js, we put JavaScript files.

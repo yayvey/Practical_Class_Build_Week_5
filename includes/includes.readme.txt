@@ -1,0 +1,1 @@
+# In includes, we put all other assets/medias that are not pictures. Videos, music, GIFs, etc

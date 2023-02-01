@@ -1,0 +1,1 @@
+# In images, we put images. JPEG's, JPG's, PNG's etc.

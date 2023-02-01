@@ -1,0 +1,1 @@
+# In documents, we put supporting/referential content unattached to the project.
